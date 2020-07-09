@@ -1,0 +1,13 @@
+{
+  "name": "second-nature",
+  "displayName": "second-nature",
+  "expo": {
+    "name": "second-nature",
+    "slug": "second-nature",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
